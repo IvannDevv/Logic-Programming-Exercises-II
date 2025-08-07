@@ -14,7 +14,7 @@ All code is written in English to improve readability and prepare for internatio
 
 ## 🚀 Technologies
 
-- Python 3.x  
+- Python 3.11.9
 
 ## 📚 Purpose
 
